@@ -6,7 +6,7 @@ An open source design for a educational tool to aid in the teaching of PGP or Pu
 ## Asymmetric Lock Box building
 In this repository you find the files to make your Asymmetric Lock Box, in the folder "Asymmetric Lock Box" you can find tree folders: Acrylic Lid, STEP Files and STL Files.
 
-In the file Ensamblaje.PDF you can see the all pieces of the box and the material, we recomended uses PLA to de printed pieces and acrilic to the lids, but you can try using other materials.
+In the file [Ensamblaje.PDF](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF) you can see the all pieces of the box and the material, we recomended uses PLA to de printed pieces and acrilic to the lids, but you can try using other materials.
 
 ### 3D Printing
 For the print process you need the STL Files, so following the file to assembly you will which pieces and how many you need pirnt, and then you can find the STL file for each part.
