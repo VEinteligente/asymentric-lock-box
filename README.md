@@ -12,7 +12,7 @@ In the file [Ensamblaje.PDF](https://github.com/VEinteligente/asymentric-lock-bo
 For the 3D printing process you need the STL Files, so following the file to [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF) you will find which pieces and how many you need print, and then you can find the STL file for each part.
 
 ### Acrylic Lids
-For lids we recomended use acrylic to make it, but you can use other material like wood and others.
+For lids we recomended use acrylic to make it, but you can use others materials like wood or any other.
 In the folder [Acrylic Lids](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/Acrylic%20Lids) you can dowload the files to cut and laser engraving the lids.
 
 ### Model to edit
