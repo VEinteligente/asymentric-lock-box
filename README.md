@@ -16,4 +16,4 @@ For lids we recomended use acrylic to make it, but you can use other material li
 In the folder [Acrylic Lids](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/Acrylic%20Lids) you can dowload the files to cut and laser engraving the lids.
 
 ### Model to edit
-In the folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/STEP%20Files)
+The folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/STEP%20Files) has the file for each part and you can make little changes.
