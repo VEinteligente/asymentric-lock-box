@@ -1,7 +1,7 @@
 # Asymmetric Lock Box
 An open source design for a educational tool to aid in the teaching of PGP or Public Key Cryptography for use in exercise.
 
-![A1](https://user-images.githubusercontent.com/92321214/156805377-2696dc2c-dd70-4861-80b7-ccee18c7fb6e.PNG)
+![R1](https://user-images.githubusercontent.com/92321214/156837292-101f65e2-53c3-455b-ba2d-f15cdea68a99.JPG)
 
 ## Asymmetric Lock Box building
 In this repository you find the files to make your Asymmetric Lock Box, in the folder [Asymmetric Lock Box](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box) you can find tree folders: [Acrylic Lids](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/Acrylic%20Lids), [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/STEP%20Files) and [STL Files](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/STL%20Files).
