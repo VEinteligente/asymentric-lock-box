@@ -7,3 +7,4 @@ In this repository you found the files to make your Asymmetric Lock Box, in the 
 STL Files
 ### Acrylic Case
 ### Model to edit
+STEP Files
