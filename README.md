@@ -8,7 +8,7 @@ In this repository you find the files to make your Asymmetric Lock Box, in the f
 
 In the file [Ensamblaje.PDF](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF) you can see the all pieces of the box and the material, we recomended uses PLA+ or PLA to the printed pieces and acrilic to the lids, but you can try using other materials.
 
-### Dimentions
+### Box Dimensions
 Length: 21.2cm
 
 Width: 16.7cm
