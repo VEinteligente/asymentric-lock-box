@@ -24,3 +24,5 @@ In the folder [Acrylic Lids](https://github.com/VEinteligente/asymentric-lock-bo
 
 ### Model to edit
 The folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/STEP%20Files) has the file for each part and you can make little changes.
+
+[For more information](https://conexionsegura.org/box)
