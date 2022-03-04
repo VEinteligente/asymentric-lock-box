@@ -10,7 +10,9 @@ In the file [Ensamblaje.PDF](https://github.com/VEinteligente/asymentric-lock-bo
 
 ### Dimentions
 Length: 21.2cm
+
 Width: 16.7cm
+
 Depth: 2.7cm
 
 ### 3D Printing
