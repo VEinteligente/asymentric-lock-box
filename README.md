@@ -38,12 +38,13 @@ In the folder [Acrylic Lids](https://github.com/VEinteligente/asymentric-lock-bo
 ### Model to edit
 The folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/STEP%20Files) has the file for each part and you can make little changes.
 
-### Assembly Process
+### Assembly Elements
 #### Pieces
 See the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF)
 
 #### Screws and others
 4 x 1/4" Pan Head Sheet Metal Screws (17 items)
+
 Mini Rubber Bands (2 items)
 
 #### Recomended Tools
