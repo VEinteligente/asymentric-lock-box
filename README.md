@@ -18,6 +18,17 @@ Depth: 2.7cm
 ### 3D Printing
 For the 3D printing process you need the STL Files, so following the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF) you will find which pieces and how many you need to print, and then you can find the STL file for each part.
 
+#### 3D Printer Settings
+If you will use PLA+ filament we recomended the following settings:
+
+**Nozzle:** 0,4mm
+
+**Layer Height:** 0.2mm
+
+**Outer wall Speed:** 25mm/s
+
+**Infill:** 10%
+
 ### Acrylic Lids
 For lids we recomended using acrylic, but you can use others materials like wood or any other.
 In the folder [Acrylic Lids](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/Acrylic%20Lids) you can dowload the files to cut and laser engraving the lids.
