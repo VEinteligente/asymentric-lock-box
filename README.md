@@ -42,8 +42,9 @@ The folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tre
 #### Pieces
 See the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF)
 
-#### Screws
+#### Screws and others
 4 x 1/4" Pan Head Sheet Metal Screws (17 items)
+Mini Rubber Bands (2 items)
 
 #### Recomended Tools
 
@@ -52,6 +53,8 @@ Cutter
 Sandpaper
 
 Screwdriver
+
+Superglue
 
 
 **[For more information](https://conexionsegura.org/box)**
