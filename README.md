@@ -21,6 +21,8 @@ For the 3D printing process you need the STL Files, so following the file [assem
 #### 3D Printer Settings
 If you will use PLA+ filament we recomended the following settings:
 
+**Temperature:** 215°C
+
 **Nozzle:** 0,4mm
 
 **Layer Height:** 0.2mm
@@ -36,4 +38,20 @@ In the folder [Acrylic Lids](https://github.com/VEinteligente/asymentric-lock-bo
 ### Model to edit
 The folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tree/main/Asymmetric%20Lock%20Box/STEP%20Files) has the file for each part and you can make little changes.
 
-[For more information](https://conexionsegura.org/box)
+### Assembly Process
+#### Pieces
+See the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF)
+
+#### Screws
+4 x 1/4" Pan Head Sheet Metal Screws (13 items)
+
+#### Recomended Tools
+
+Cutter
+
+Sandpaper
+
+Screwdriver
+
+
+**[For more information](https://conexionsegura.org/box)**
