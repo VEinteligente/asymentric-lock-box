@@ -18,6 +18,8 @@ Depth: 2.7cm
 ### 3D Printing
 For the 3D printing process you need the STL Files, so following the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF) you will find which pieces and how many you need to print, and then you can find the STL file for each part.
 
+Note: Piece #22 "arandela 2.2" is the same piece #21 "arandela 2", according to the [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF) file. 
+
 #### 3D Printer Settings
 If you will use PLA+ filament we recomended the following settings:
 
