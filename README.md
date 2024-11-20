@@ -23,7 +23,7 @@ For the 3D printing process you need the STL Files, so following the file [assem
 #### 3D Printer Settings
 If you will use PLA+ filament we recomended the following settings:
 
-**Temperature:** 215°C
+* **Temperature:** 215°C
 
 **Nozzle:** 0,4mm
 
