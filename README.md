@@ -44,7 +44,7 @@ The folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tre
 #### Pieces
 See the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF)
 
-UPDATE:
+UPDATE: Pieces No.: 16 ([LlaveA.STL](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/STL%20Files/LlaveA.STL)) and 17 (CabezaLlaveA.STL), can be replaced by the part LlaveCilindroA.STL, while parts No.: 18 (LlaveB.STL) and 19 (CabezaLlaveB.STL) can be replaced by the part LlaveCilindroB.STL.
 
 #### Screws and others
 * 4 x 1/4" Pan Head Sheet Metal Screws (17 items)
