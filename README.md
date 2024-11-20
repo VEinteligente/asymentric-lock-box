@@ -44,6 +44,8 @@ The folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tre
 #### Pieces
 See the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF)
 
+UPDATE:
+
 #### Screws and others
 * 4 x 1/4" Pan Head Sheet Metal Screws (17 items)
 
