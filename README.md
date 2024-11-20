@@ -25,13 +25,13 @@ If you will use PLA+ filament we recomended the following settings:
 
 * **Temperature:** 215°C
 
-**Nozzle:** 0,4mm
+* **Nozzle:** 0,4mm
 
-**Layer Height:** 0.2mm
+* **Layer Height:** 0.2mm
 
-**Outer wall Speed:** 25mm/s
+* **Outer wall Speed:** 25mm/s
 
-**Infill:** 10%
+* **Infill:** 10%
 
 ### Acrylic Lids
 For lids we recomended using acrylic, but you can use others materials like wood or any other.
@@ -51,13 +51,13 @@ Mini Rubber Bands (2 items)
 
 #### Recomended Tools
 
-Cutter
+* Cutter
 
-Sandpaper
+* Sandpaper
 
-Screwdriver
+* Screwdriver
 
-Superglue
+* Superglue
 
 
 **[For more information](https://conexionsegura.org/box)**
