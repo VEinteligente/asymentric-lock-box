@@ -9,11 +9,11 @@ In this repository you will find the files necesary to make your Asymmetric Lock
 In the file [Ensamblaje.PDF](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF) you can see the all pieces of the box and and the recommended material, we recomended using PLA+ or PLA for the printed parts and acrilic for the lids, but you can try using other materials.
 
 ### Box Dimensions
-Length: 21.2cm
+* Length: 21.2cm
 
-Width: 16.7cm
+* Width: 16.7cm
 
-Depth: 2.7cm
+* Depth: 2.7cm
 
 ### 3D Printing
 For the 3D printing process you need the STL Files, so following the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF) you will find which pieces and how many you need to print, and then you can find the STL file for each part.
@@ -45,9 +45,9 @@ The folder [STEP Files](https://github.com/VEinteligente/asymentric-lock-box/tre
 See the file [assembly](https://github.com/VEinteligente/asymentric-lock-box/blob/main/Asymmetric%20Lock%20Box/Ensamblaje.PDF)
 
 #### Screws and others
-4 x 1/4" Pan Head Sheet Metal Screws (17 items)
+* 4 x 1/4" Pan Head Sheet Metal Screws (17 items)
 
-Mini Rubber Bands (2 items)
+* Mini Rubber Bands (2 items)
 
 #### Recomended Tools
 
